@@ -11,7 +11,7 @@
 
 ## Projects
 - [x] [Weiqi - Baduk - Go Game Roadmap / Guide](https://weiqi.soumyak4.in) | [Backup](https://wq.soumyak4.in/categories/)
-- [ ] [Paid Pre-recorded Lessons](https://baduklectures.soumyak4.in) for Weiqi - Baduk - Go Game
+- [ ] [Paid Pre-recorded Lessons](#) for Body & Brain
 - [x] [Paid Online Lessons](https://buymeacoffee.com/soumyak4) | [Alternative](https://github.com/sponsors/SoumyaK4)
 
-## Avatar by [Stoned on The Goban](https://www.instagram.com/stonedonthegoban/) <3
+### Avatar by [Stoned on The Goban](https://www.instagram.com/stonedonthegoban/) <3
